@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jdk_tools_classes">
+    <CLASSES>
+      <root url="file://$USER_HOME$/dev/jdk/git/unicode/build/macosx-x64/buildtools/jdk_tools_classes" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/dev/jdk/git/unicode/open/make/jdk/src/classes" />
+    </SOURCES>
+  </library>
+</component>
